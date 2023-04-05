@@ -1,5 +1,5 @@
 # The-IADS-Project
-The IADS Project is a collaborative "rebuilding" of various Integrated Air Defense Systems in the world utilizing Google Earth Pro.  The idea spawned from the DCS World community and the lack of easily usable data on the location of various Soviet era SAM Sites on DCS World Maps.  What started as one person manually looking for SAM Sites on Google Maps rapidly transpired into a complete rebuilding of the 1980's era Soviet IADS and partial rebuilding NATO IADS with multiple contributors.
+The IADS Project is a collaborative "rebuilding" of various Integrated Air Defense Systems in the world utilizing Google Earth Pro.  The idea spawned from the DCS World community and the lack of easily usable data on the location of various Soviet era SAM Sites on DCS World Maps.  What started as one person manually looking for SAM Sites on Google Maps rapidly transpired into a complete rebuilding of the 1980's era Soviet IADS and partial rebuilding NATO IADS with multiple contributors.  Special thanks to Recoil over at the DCS World 107th Joint Aviation Squadron for his extensive help on this project!
 # What to Expect 
 ![IADS!](https://user-images.githubusercontent.com/119547276/230161573-0734bffd-2ec5-4d3d-adcd-74ec989e0ce5.PNG)
 
