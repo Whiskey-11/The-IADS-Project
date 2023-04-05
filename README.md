@@ -17,9 +17,23 @@ Using this .KMZ file requires you to have Google Earth Pro downloaded and instal
 When you download the file, you'll need to open it.  You'll notice the default location when you open the file is to the United States and there are NO PINS there.  This is BY CHOICE.  I HIGHLY HIGHLY HIGHLY recommend you UNCHECK all of the pins in the folder browser.  NO SERIOUSLY... when you enable ALL of the pins and snap to Europe it CRASHES Google Earth Pro.  If you want to see the whole Soviet IADS at once, you must zoom in really far in Europe, enable the entire Warsaw Pact layer, and slowly zoom out.  Minimize panning/tilting of the earth or you'll risk crashing the program.  THERE ARE A LOT OF PINS!!!!!
 
 # Contribution
-Do you have weaponized autism too?  Do you want to help this project?  Well you can!  As pointed out above, there are A LOT of sites which are marked "allegedly" or are were just not located in general.  If you want to take the time to go through each Air Defense Brigade and Regiment as Recoil and I did over the last three months, PLEASE DO! :)  Any area where you may have found a site, take note of which country it is in, what the GPS Coordinates are, what type of site it is, and what subordination (regiment or brigade) it belongs to.  Create an "issue" on GitHub and include a picture if you can of the site.  Add in the above details and any available information.  This is especially true of the SA-10 variants as there are numerous variants of the S-300 family.  
+Do you have weaponized autism too?  Do you want to help this project?  Well you can!  As pointed out above, there are A LOT of sites which are marked "allegedly" or are were just not located in general.  If you want to take the time to go through each Air Defense Brigade and Regiment as Recoil and I did over the last three months, PLEASE DO! :)  Any area where you may have found a site which isn't already pinned, take note of: 
+
+* Which country it is in
+* What the GPS coordinates are 
+* What type of site it is 
+* What subordination (regiment or brigade) it belongs to
+* Any variant information
+
+Create an "issue" on GitHub and include a picture if you can of the site.  Add in the above details and any other available information (such as variant).  This is especially true of the SA-10 variants as there are numerous variants of the S-300 family.  
 
 We will do our best to check those "Issues" and get them added when we have time.  If you have access to LIDAR data or other useful data which can help identify specific sites, include that information as well.  If we find sites using satellite imagery NOT on Google Earth, please include a picture so we can add it to the .KMZ file.  Historical pictures are cool too!
+
+As a Special Note:  If you locate a SAM Site which is currently in use, and it's not marked in the Cold War IADS file, please do some research and see if the site was actually in use during the Cold War... our "cutoff" date is around 1995, which is after the Cold War technically ended, but was still in the realm of the Warsaw Pact potentially causing "issues" with the West.  You can send us stuff after this date, but it'll be added to a separate KMZ.
+
+### **DO NOT SEND CLASSIFIED INFORMATION**  
+
+This is NOT the War Thunder Forums... I DO NOT want your classified or restricted documents.  I CANNOT stress this enough.
 
 # Common Site Layouts
 The Russian's are nothing, if not, stubborn in their SAM site layouts.  Out of all the systems, the S-300 has the most "variation" in how the site is configured, but even the S-300/S-400 systems are overwhelmingly the same from site to site. What I mean is, the S-300/S-400 sites are more flexible, and you'll see more variation than an SA-2 site has. They were downright dogmatic about an SA-2 configuration.
